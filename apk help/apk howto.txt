@@ -1,0 +1,9 @@
+Enter cd [project]
+Run flutter build apk 
+
+Classpath issues Use:
+
+Fixed it simply by running Invalidate Caches / 
+Restart on Android Studio!
+
+https://docs.flutter.dev/deployment/android
